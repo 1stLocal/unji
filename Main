@@ -1,0 +1,124 @@
+Instance.new("BlurEffect",game.Lighting)
+local localHub = Instance.new("ScreenGui",game.CoreGui)
+localHub.Name = "LocalHub"
+localHub.IgnoreGuiInset = true
+localHub.ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
+localHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+local main_Frame = Instance.new("Frame")
+main_Frame.Name = "Main Frame"
+main_Frame.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+main_Frame.BorderSizePixel = 0
+main_Frame.Position = UDim2.fromScale(0.324, 0.403)
+main_Frame.Size = UDim2.fromScale(0.351, 0.263)
+
+local uICorner = Instance.new("UICorner")
+uICorner.Name = "UICorner"
+uICorner.CornerRadius = UDim.new(0, 15)
+uICorner.Parent = main_Frame
+
+local title = Instance.new("TextLabel")
+title.Name = "Title"
+title.FontFace = Font.new(
+  "rbxassetid://12187361718",
+  Enum.FontWeight.Bold,
+  Enum.FontStyle.Normal
+)
+title.Text = "LocalHub-키 시스템"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextScaled = true
+title.TextSize = 20
+title.TextWrapped = true
+title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+title.BackgroundTransparency = 1
+title.Position = UDim2.fromScale(0.0227, 0.104)
+title.Size = UDim2.fromScale(0.95, 0.133)
+
+local uITextSizeConstraint = Instance.new("UITextSizeConstraint")
+uITextSizeConstraint.Name = "UITextSizeConstraint"
+uITextSizeConstraint.MaxTextSize = 30
+uITextSizeConstraint.Parent = title
+
+title.Parent = main_Frame
+
+local uIGradient = Instance.new("UIGradient")
+uIGradient.Name = "UIGradient"
+uIGradient.Color = ColorSequence.new({
+  ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+  ColorSequenceKeypoint.new(1, Color3.fromRGB(26, 26, 26)),
+})
+uIGradient.Offset = Vector2.new(0, 0.2)
+uIGradient.Rotation = 90
+uIGradient.Parent = main_Frame
+
+local status = Instance.new("TextLabel")
+status.Name = "Status"
+status.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+status.Text = "(?) 키가 확인되지 않았습니다."
+status.TextColor3 = Color3.fromRGB(68, 255, 0)
+status.TextScaled = true
+status.TextSize = 16
+status.TextWrapped = true
+status.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+status.BackgroundTransparency = 1
+status.Position = UDim2.fromScale(0.0674, 0.752)
+status.Size = UDim2.fromScale(0.862, 0.117)
+
+local uITextSizeConstraint1 = Instance.new("UITextSizeConstraint")
+uITextSizeConstraint1.Name = "UITextSizeConstraint"
+uITextSizeConstraint1.MaxTextSize = 28
+uITextSizeConstraint1.Parent = status
+
+status.Parent = main_Frame
+
+local uIStroke = Instance.new("UIStroke")
+uIStroke.Name = "UIStroke"
+uIStroke.Thickness = 5
+uIStroke.Transparency = 0.3
+uIStroke.Parent = main_Frame
+
+local uIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+uIAspectRatioConstraint.Name = "UIAspectRatioConstraint"
+uIAspectRatioConstraint.AspectRatio = 3.32
+uIAspectRatioConstraint.Parent = main_Frame
+
+local inputBackground = Instance.new("Frame")
+inputBackground.Name = "InputBackground"
+inputBackground.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+inputBackground.Position = UDim2.fromScale(0.0883, 0.348)
+inputBackground.Size = UDim2.fromScale(0.824, 0.301)
+
+local uICorner1 = Instance.new("UICorner")
+uICorner1.Name = "UICorner"
+uICorner1.Parent = inputBackground
+
+inputBackground.Parent = main_Frame
+
+local input = Instance.new("TextBox")
+input.Name = "Input"
+input.CursorPosition = -1
+input.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+input.PlaceholderText = "키를 입력 하세요."
+input.Text = ""
+input.TextColor3 = Color3.fromRGB(255, 255, 255)
+input.TextScaled = true
+input.TextSize = 25
+input.TextWrapped = true
+input.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+input.BackgroundTransparency = 1
+input.Position = UDim2.fromScale(0.0957, 0.439)
+input.Size = UDim2.fromScale(0.809, 0.116)
+
+local uICorner2 = Instance.new("UICorner")
+uICorner2.Name = "UICorner"
+uICorner2.Parent = input
+
+local uITextSizeConstraint2 = Instance.new("UITextSizeConstraint")
+uITextSizeConstraint2.Name = "UITextSizeConstraint"
+uITextSizeConstraint2.MaxTextSize = 25
+uITextSizeConstraint2.Parent = input
+
+input.Parent = main_Frame
+
+main_Frame.Parent = localHub
+return localHub
