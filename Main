@@ -1,4 +1,4 @@
-Blur = Instance.new("BlurEffect",game.Lighting)
+_G.Blur = Instance.new("BlurEffect",game.Lighting)
 local localHub = Instance.new("ScreenGui",game.CoreGui)
 localHub.Name = "LocalHub"
 localHub.IgnoreGuiInset = true
@@ -121,4 +121,4 @@ uITextSizeConstraint2.Parent = input
 input.Parent = main_Frame
 
 main_Frame.Parent = localHub
-return localHub,Blur
+return localHub
