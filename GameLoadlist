@@ -1,44 +1,44 @@
 
  SupportGames = {
     ['10871472521'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/DonateGameKR";
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/DonateGameKR";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 한국판 기부해주세요!
         HubName = ""
     };
    ['6430630495'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/KoreanBBQRestaurantLocalX";
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreanBBQRestaurantLocalX";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 병철이네
         HubName = ""
     };
     ['11063612131'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/EverySecondYouGet%2B1JumpPower";
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/EverySecondYouGet%2B1JumpPower";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- Every Second You Get +1 Jump Power
         HubName = ""
     };
     ['12513232155'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/UnjiJosunVSjapan"
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/UnjiJosunVSjapan"
                   }, -- [대항해의 시대가 돌아왔다!] 조선 vs 일본
         HubName = ""
     };
     ['9426459746'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/TabiArmyDie"
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/TabiArmyDie"
                   }, -- 태비부대 HID 업데이트
         HubName = ""
     };
     ['5720801512'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/KoreaMM2XC";
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreaMM2XC";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 한국머
         HubName = ""
     };
      ['9636698233'] = {
-        Script = {"https://raw.githubusercontent.com/EasyLocal/RobloxExploitScriptsForVideo/main/Games/WinSCPZaeDan"
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/WinSCPZaeDan"
                   }, -- 승리재단
         HubName = ""
-    };
+    };LocalHub-RobloxCheat
     ['9812972023'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RiceRiceArmy";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
