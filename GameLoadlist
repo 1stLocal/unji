@@ -38,7 +38,7 @@
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/WinSCPZaeDan"
                   }, -- 승리재단
         HubName = ""
-    };LocalHub-RobloxCheat
+    }
     ['9812972023'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RiceRiceArmy";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
