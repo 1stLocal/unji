@@ -1,5 +1,4 @@
-
- SupportGames = {
+SupportGames = {
     ['10871472521'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/DonateGameKR";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
@@ -38,7 +37,7 @@
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/WinSCPZaeDan"
                   }, -- 승리재단
         HubName = ""
-    }
+    };
     ['9812972023'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RiceRiceArmy";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
