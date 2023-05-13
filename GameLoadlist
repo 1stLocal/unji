@@ -31,7 +31,7 @@
     ['5720801512'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreaMM2XC";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
-                  }, -- 한국머
+                  }, -- 한국머더
         HubName = ""
     };
      ['9636698233'] = {
@@ -42,7 +42,12 @@
     ['9812972023'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RiceRiceArmy";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
-                  }, -- 밥밥부
+                  }, -- 밥밥부대
+        HubName = ""
+    };
+    ['698448212'] = {
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RobeatsAutoPlayer"
+                  }, -- 로비트
         HubName = ""
     };
 }
