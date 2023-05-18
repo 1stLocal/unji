@@ -3,7 +3,7 @@ SupportGames = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/DonateGameKR";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 한국판 기부해주세요!
-        Status = true
+        Status = false
     };
    ['6430630495'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreanBBQRestaurantLocalX";
