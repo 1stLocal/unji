@@ -3,51 +3,51 @@ SupportGames = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/DonateGameKR";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 한국판 기부해주세요!
-        Status = false
+        Status = "Patched"
     };
    ['6430630495'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreanBBQRestaurantLocalX";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 병철이네
-        Status = true
+        Status = "Work"
     };
     ['11063612131'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/EverySecondYouGet%2B1JumpPower";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- Every Second You Get +1 Jump Power
-        Status = true
+        Status = "Work"
     };
     ['12513232155'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/UnjiJosunVSjapan"
                   }, -- [대항해의 시대가 돌아왔다!] 조선 vs 일본
-        Status = true
+        Status = "Work"
     };
     ['9426459746'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/TabiArmyDie"
                   }, -- 태비부대 HID 업데이트
-        Status = false
+        Status = "Patched"
     };
     ['5720801512'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreaMM2XC";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 한국머더
-        Status = true
+        Status = "Work"
     };
      ['9636698233'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/WinSCPZaeDan"
                   }, -- 승리재단
-        Status = false
+        Status = "Patched"
     };
     ['9812972023'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RiceRiceArmy";
                   "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source";
                   }, -- 밥밥부대
-        Status = true
+        Status = "Work"
     };
     ['698448212'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RobeatsAutoPlayer"
                   }, -- 로비트
-        Status = true
+        Status = "Work"
     };
 }
 return SupportGames
