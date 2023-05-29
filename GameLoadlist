@@ -25,7 +25,7 @@ SupportGames = {
     ['9426459746'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/TabiArmyDie"
                   }, -- 태비부대 HID 업데이트
-        Status = "Patched"
+        Status = "Work"
     };
     ['5720801512'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/KoreaMM2XC";
