@@ -1,0 +1,43 @@
+local translateons = {
+    ['Change Logs'] = "업데이트 기록";
+    ['Info'] = "정보";
+    ['Main'] = "메인";
+    ['LocalPlayer'] = "로컬플레이어";
+    ["Credits"] = "제작자";
+    ["VERSION: "] = "버전: ";
+    ["CHANGE LOGS!"] = "최신 업데이트 로그!";
+    ["client.info"] = "유저 정보";
+    ["Using Executor: "] = "사용중인 핵: ";
+    ["Name: "] = "이름: ";
+    ["Account Age: "] = "계정 나이: ";
+    ['WalkSpeed'] = "달리기속도";
+    ['JumpPower'] = '점프파워';
+    ['Reset Character'] = '캐릭터 재설정하기';
+    ['                                   --/Custom Character/--'] = '                                          --/캐릭터 꾸미기/--';
+    ['Skin Color'] = '캐릭터 몸 색상';
+    ['ForceField Skin'] = 'ForceField 스킨';
+    ['FOV'] = "시야";
+    ['This Script was made by LocalX!'] = "이 스크립트는 로컬x가 제작하였습니다!";
+    ['Copy to clipboard!'] = "클립보드에 복사하기";
+    ['LocalX'] = '로컬x';
+    ['Sub to my channel!'] = '구독과 좋아요 부탁드립니다!';
+    ['Join my discord community to get a key.'] = '키를 얻기위해선 디스코드 서버에 가입해야 해요.';
+    ["LocalX's Community"] = '로컬x의 커뮤니티';
+    ["Change ToggleList's Color"] = '투글리스트 색상 바꾸기';
+    ['Thanks for using our script hub!!'] = '로컬허브를 사용해 주셔서 감사합니다!!';
+    ['NPC Battle'] = '팔씨름 경기';
+    ['AutoFarm'] = '오토팜';
+    ['Status: '] = '상태: ';
+    ['Farm Type'] = '운동 종류';
+    ['Tier'] = '티어';
+    ['Input kg or Tier'] = 'kg 또는 티어를 입력하세요';
+    ['here!'] = '여기다가!';
+    ['Start AutoFarm'] = '오토팜 시작하기';
+    ['Auto Claim Spins,Gifts, etc'] = '자동으로 스핀,선물 등등을 받기';
+    ['Misc'] = '기타';
+    ['Choose NPC'] = 'NPC 골라서 순간이동 하기';
+    ['Start AutoClick'] = '오토클릭 시작하기';
+    ['Auto Rebirth'] = '자동환생';
+
+}
+return translateons
