@@ -20,7 +20,7 @@ SupportGames = {
     ['12513232155'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/UnjiJosunVSjapan"
                   }, -- [대항해의 시대가 돌아왔다!] 조선 vs 일본
-        Status = "Work"
+        Status = "Patched"
     };
     ['9426459746'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/TabiArmyDie"
@@ -47,6 +47,11 @@ SupportGames = {
     ['698448212'] = {
         Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/RobeatsAutoPlayer"
                   }, -- 로비트
+        Status = "Work"
+    };
+['13127800756'] = {
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/Arm%20Wrestle%20Simulator/Script.lua"
+                  }, -- Arm Wrestle Simulator
         Status = "Work"
     };
 }
