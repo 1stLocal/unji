@@ -54,4 +54,5 @@ SupportGames = {
                   }, -- Arm Wrestle Simulator
         Status = "Work"
     };
+}
 return SupportGames
