@@ -49,4 +49,9 @@ SupportGames = {
                   }, -- 로비트
         Status = "Work"
     };
+['13127800756'] = {
+        Script = {"https://raw.githubusercontent.com/EasyLocal/LocalHub-RobloxCheat/main/Games/Arm%20Wrestle%20Simulator"
+                  }, -- Arm Wrestle Simulator
+        Status = "Work"
+    };
 return SupportGames
