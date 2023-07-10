@@ -26,3 +26,4 @@ local Translate = {
     ["Change ToggleList's Color"] = '투글리스트 색상 바꾸기';
     ['Thanks for using our script hub!!'] = '로컬허브를 사용해 주셔서 감사합니다!';
 }
+return Translate
