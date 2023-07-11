@@ -1,2 +1,2 @@
-# LocalHub-RobloxCheat yes
+# LocalHub-RobloxCheat
 Just my roblox scripts
