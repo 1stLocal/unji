@@ -1,2 +1,16 @@
-# Local Hub-RobloxCheat
-Just my roblox scripts
+# Local Hub
+
+![Local Hub 로고](https://media.discordapp.net/attachments/1104416058393251871/1117089065322418397/2-removebg-preview.png)
+
+로블록스 핵과 스크립트에 관한 소스 코드 저장소입니다. Local Hub는 로블록스 게임에서 사용되는 스크립트 및 핵을 제공하여 사용자들이 게임 플레이 경험을 개선할 수 있도록 도와줍니다.
+
+## 주요 기능
+
+- 로블록스 게임에 사용되는 다양한 스크립트 및 핵 제공
+- 게임 플레이를 개선하기 위한 다양한 기능 제공
+- 사용자 정의 스크립트 및 핵 추가 및 공유 가능
+
+## 문의하기
+
+질문이나 문제가 있으시면 개발자 LocalX에게 문의해주세요.
+- discord.gg/localx
